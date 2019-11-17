@@ -1,0 +1,4 @@
+h 2 2 depth 9, 1-9
+h 2 3 depth 9 for no player
+h 2 4 depth 6, 8 player 2
+serial no +16 hobe
